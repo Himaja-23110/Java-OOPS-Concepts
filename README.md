@@ -40,12 +40,12 @@ OOPConcepts
 
 ```text
 ===== CLASS & OBJECT =====
-Name: Sruthi
-Age: 21
+Name: Himaja
+Age: 23
 
 ===== ENCAPSULATION =====
-Name: Sruthi
-Age: 21
+Name: Himaja
+Age: 23
 
 ===== INHERITANCE =====
 I am an Employee
@@ -67,4 +67,4 @@ Payment completed online
 
 ## Author
 
-**Karnam Sruthi**
+**Pogiri Himaja**
